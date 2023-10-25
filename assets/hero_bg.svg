@@ -1,0 +1,43 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g clip-path="url(#clip0_2247_144)">
+    <rect width="1600" height="900" transform="translate(-80)" fill="#F2EDDD"/>
+    <rect width="1085.56" height="1628.89" transform="matrix(-1 0 0 1 1805.56 -377.778)" fill="url(#pattern0)"/>
+    <path d="M883.731 802.154C1167.21 523.097 1219.25 112.7 995.8 -114.288C772.351 -341.276 361.186 -295.685 77.7109 -16.6282C-205.764 262.428 -257.809 672.826 -34.3588 899.814C189.091 1126.8 600.256 1081.21 883.731 802.154Z" fill="#D9D9D9" stroke="#132790" stroke-width="12.2222"/>
+    <mask id="mask0_2247_144" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-168" y="-253" width="1297" height="1292">
+      <ellipse cx="480.721" cy="392.763" rx="716.667" ry="568.361" transform="rotate(-44.55 480.721 392.763)" fill="#D9D9D9"/>
+    </mask>
+    <g mask="url(#mask0_2247_144)">
+      <rect x="116.667" y="-255.556" width="1040" height="1186.67" fill="url(#pattern1)"/>
+    </g>
+    <path d="M234.694 1085.43C375.988 1044.16 481.176 930.634 537.354 781.305C593.531 631.978 600.89 446.493 546.466 260.153C492.041 73.8122 386.006 -78.5532 258.289 -174.17C130.569 -269.788 -19.187 -308.854 -160.481 -267.587C-301.774 -226.319 -406.962 -112.792 -463.14 36.5375C-519.317 185.864 -526.677 371.349 -472.252 557.689C-417.828 744.03 -311.793 896.395 -184.075 992.012C-56.3554 1087.63 93.4007 1126.7 234.694 1085.43Z" fill="#D9D9D9" stroke="#F8CB5F" stroke-width="12.2222"/>
+    <mask id="mask1_2247_144" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-504" y="-278" width="1082" height="1374">
+    <ellipse cx="37.1068" cy="408.921" rx="524.529" ry="698.661" transform="rotate(-16.2815 37.1068 408.921)" fill="#D9D9D9"/>
+    </mask>
+    <g mask="url(#mask1_2247_144)">
+      <rect x="-83.3335" y="-173.333" width="701.111" height="1243.33" fill="url(#pattern2)"/>
+    </g>
+    <rect opacity="0.8" x="-80" width="1600" height="900" fill="url(#paint0_linear_2247_144)"/>
+  </g>
+  <defs>
+    <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+      <use xlink:href="#image0_2247_144" transform="scale(0.000366336 0.000244141)"/>
+    </pattern>
+      <pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+    <use xlink:href="#image1_2247_144" transform="matrix(0.000417719 0 0 0.000366166 -0.137725 0)"/>
+      </pattern>
+    <pattern id="pattern2" patternContentUnits="objectBoundingBox" width="1" height="1">
+      <use xlink:href="#image2_2247_144" transform="matrix(0.000433463 0 0 0.000244428 0 -0.000589343)"/>
+    </pattern>
+    <linearGradient id="paint0_linear_2247_144" x1="705.555" y1="174.375" x2="180.504" y2="827.344" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#132790" stop-opacity="0"/>
+      <stop offset="0.492012" stop-color="#10217B" stop-opacity="0.5567"/>
+      <stop offset="1" stop-color="#0D1A5E"/>
+    </linearGradient>
+    <clipPath id="clip0_2247_144">
+      <rect width="1600" height="900" fill="white" transform="translate(-80)"/>
+    </clipPath>
+    <image id="image0_2247_144" width="4096" height="2731" xlink:href="https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&amp;fit=crop&amp;q=80&amp;w=2070&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
+    <image id="image1_2247_144" width="4096" height="2731" xlink:href="https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&amp;fit=crop&amp;q=80&amp;w=2070&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
+    <image id="image2_2247_144" width="4096" height="2731" xlink:href="https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&amp;fit=crop&amp;q=80&amp;w=2070&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
+  </defs>
+</svg>
