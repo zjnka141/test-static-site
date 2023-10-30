@@ -1,4 +1,4 @@
-0:["gEFvYhASrU2SCCp5guI67",[[["",{"children":[["lang","nl","d"],{"children":["__PAGE__?{\"lang\":\"nl\"}",{}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["gs5UCSn9sNMBFnAvU-tCJ",[[["",{"children":[["lang","nl","d"],{"children":["__PAGE__?{\"lang\":\"nl\"}",{}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 3:HL["/_next/static/media/6905431624c34d00-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 4:HL["/_next/static/media/c6908836934a19a7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 5:HL["/_next/static/css/9bdb87593b3d8cae.css","style",{"crossOrigin":""}]
