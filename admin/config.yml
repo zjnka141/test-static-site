@@ -1,0 +1,24 @@
+backend:
+  name: github
+  branch: main
+  repo: zjnka141/test-decapcms
+
+media_folder: "public/images/uploads"
+collections:
+  - name: "pages" # Used in routes, e.g., /admin/collections/pages
+    label: "Pages"
+    folder: "content/pages" # The path to the folder where the documents are stored
+    create: true
+    slug: "{{slug}}"
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "markdown" }
+      - label: "Testimonials"
+        name: "testimonials"
+        collapsed: false
+        widget: "list"
+        fields:
+          - { label: Quote, name: quote, widget: string, default: "Everything is awesome!" }
+          - { label: Author, name: author, widget: string }
+          - { label: Author Image, name: authorImage, widget: image }
