@@ -1,0 +1,131 @@
+0:["8niLt_oA6eJORWqFE8o-G",[[["",{"children":["(default)",{"children":["book-demo",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true]}],"$L1",[[],"$L2"]]]]
+3:HL["/_next/static/media/6905431624c34d00-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+4:HL["/_next/static/media/dcc209c0b1ab30af-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+5:HL["/_next/static/css/1736ee92a95379b8.css","style",{"crossOrigin":""}]
+6:HL["/_next/static/css/551351aef1fda934.css","style",{"crossOrigin":""}]
+7:I[6954,[],""]
+8:I[7264,[],""]
+2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Thrive - Het vitaliteitsplaform voor iedere medewerker"}],["$","meta","2",{"name":"description","content":"Thrive biedt medewerkers een omgeving om aan de slag te gaan met thema’s rondom vitaliteit en ontwikkeling. Naast een uniek aanbod van diensten bieden we de tools om vitaliteit succesvol in jouw organisatie te implementeren."}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/icon-v2.png"}],["$","meta","5",{"name":"next-size-adjust"}]]
+1:["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":[null,"$L9",null],"segment":"(default)"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1736ee92a95379b8.css","precedence":"next","crossOrigin":""}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/551351aef1fda934.css","precedence":"next","crossOrigin":""}]]}]
+a:I[7724,["173","static/chunks/173-27547d7a2f741136.js","299","static/chunks/299-3aeae2fb29f638a8.js","686","static/chunks/686-87ad793a47f4e3f4.js","876","static/chunks/876-ba58dfb7b62f70dc.js","534","static/chunks/app/(default)/layout-45b28fee43c95fa7.js"],""]
+d:I[2180,["173","static/chunks/173-27547d7a2f741136.js","299","static/chunks/299-3aeae2fb29f638a8.js","686","static/chunks/686-87ad793a47f4e3f4.js","876","static/chunks/876-ba58dfb7b62f70dc.js","534","static/chunks/app/(default)/layout-45b28fee43c95fa7.js"],""]
+10:I[3994,["173","static/chunks/173-27547d7a2f741136.js","299","static/chunks/299-3aeae2fb29f638a8.js","686","static/chunks/686-87ad793a47f4e3f4.js","876","static/chunks/876-ba58dfb7b62f70dc.js","534","static/chunks/app/(default)/layout-45b28fee43c95fa7.js"],""]
+11:I[9626,["173","static/chunks/173-27547d7a2f741136.js","299","static/chunks/299-3aeae2fb29f638a8.js","686","static/chunks/686-87ad793a47f4e3f4.js","876","static/chunks/876-ba58dfb7b62f70dc.js","534","static/chunks/app/(default)/layout-45b28fee43c95fa7.js"],""]
+e:Tbee,ALGEMENE GEBRUIKSVOORWAARDEN THRIVE PEOPLE B.V.
+
+Deze algemene gebruiksvoorwaarden (de “Gebruiksvoorwaarden”) zijn van toepassing op de relatie tussen Thrive People B.V. (“Thrive”) en de persoon (de “Medewerker”) via de website van Thrive (de “Website”) een overeenkomst (een “Afnameovereenkomst”) heeft gesloten met een partij die via de Website diensten en/of producten aanbiedt (een “Aanbieder”).
+
+Artikel 1
+Klachten over dienstverlening of product
+
+Afhandeling door de Aanbieder 
+De Medewerker zal eventuele klachten over dienstverlening of een product rechtstreeks met de Aanbieder opnemen. De Aanbieder is verplicht om een klacht binnen 14 dagen en in redelijkheid af te handelen, met inachtneming van wat in de betreffende branche gebruikelijk is.
+
+Informatieverstrekking aan Thrive, assistentie bij afhandeling
+De Medewerker zal de Werkgever en Thrive op de hoogte stellen van de indiening van een klacht en zal vervolgens Thrive op de hoogte houden van het verloop van de behandeling van de klacht. Waar nuttig en nodig zal Thrive assisteren bij de afhandeling.
+
+Artikel 2
+Evaluatie dienst/product Aanbieder
+Thrive zal na de uitvoering van een Afnameovereenkomst de betreffende Medewerker vragen om de kwaliteit van de dienstverlening/het product te evalueren.
+
+Artikel 3
+Gegevensbescherming 
+Thrive zal de voor haar geldende verplichtingen uit de Algemene Verordening Gegevensbescherming (de “AVG”) en daarop gebaseerde nadere regels naleven. De persoonsgegevens van de Medewerker zullen door Thrive worden gebruikt in overeenstemming met het privacyreglement van Thrive, dat via de Website kan worden ingezien.
+
+Artikel 4
+Beperking aansprakelijkheid, vrijwaring
+
+Beperking aansprakelijkheid
+
+Afnameovereenkomsten
+Thrive is niet aansprakelijk voor door de Medewerker (direct of indirect) geleden schade ten gevolge van het niet, of niet naar behoren, uitvoeren van de Afnameovereenkomst door de Aanbieder, tenzij die schade aantoonbaar het directe gevolg is van opzet of grove schuld van Thrive. 
+
+Informatie op de Website
+Thrive aanvaardt geen enkele aansprakelijkheid voor de juistheid of volledigheid van de op de Website vermelde informatie over de diensten en producten van de Aanbieder (de “Content”). De Content mag niet worden opgevat als een advies van Thrive. De Medewerker is er zelf verantwoordelijk voor of hij of zij  wel of niet uitgaat van de juistheid van de Content en het op basis daarvan nemen van een beslissing beslissingen. 
+
+Artikel 5
+Toepasselijk recht en geschillen 
+
+Nederlands recht van toepassing
+De relatie tussen de Medewerker en Thrive wordt uitsluitend beheerst door, en dient te worden uitgelegd naar Nederlands recht. 
+
+Geschillen
+Partijen zullen er naar streven om geschillen in der minne op te lossen en zullen daartoe te goeder trouw overleggen om te komen tot een resultaat dat voor beide partijen aanvaardbaar is. Geschillen die niet in der minne kunnen worden opgelost, worden exclusief beslist door de bevoegde rechter in Den Haag.f:T1584,Dit is de privacyverklaring van Thrive People B.V. (hierna "Thrive," "wij," "ons" of "onze"). In deze verklaring leggen we uit hoe we persoonsgegevens verzamelen en verwerken, waarom we dit doen, welke gegevens we verzamelen en welke rechten u heeft met betrekking tot uw persoonsgegevens.
+
+1. Wie zijn wij
+
+Thrive People B.V. richt zich op vitaliteit en welzijn van werkgevers en hun medewerkers. Wij handelen in overeenstemming met de geldende privacywetgeving en dragen er zorg voor dat uw persoonsgegevens veilig worden verwerkt.
+
+2. Verzameling en gebruik van persoonsgegevens
+
+Wij verzamelen persoonsgegevens wanneer u contact met ons opneemt of onze diensten gebruikt. Deze gegevens kunnen onder andere uw naam, contactinformatie en andere relevante informatie omvatten.
+
+Wij gebruiken uw persoonsgegevens voor de volgende doeleinden:
+
+•	Het communiceren met u over onze diensten en aanbiedingen.
+•	Het verbeteren van onze diensten en website.
+•	Het leveren van onze diensten en het beheren van uw account.
+•	Het voldoen aan wettelijke verplichtingen.
+
+
+3. Doel van de verwerking van persoonsgegevens 
+
+Het is ons doel om website- en platformbezoekers van dienst te zijn en hen te voorzien van waardevolle informatie en hulpmiddelen. De content van onze online omgeving richt zich op het bevorderen van vitaliteit en welzijn. Om onze services en content te verbeteren en relevante inhoud te bieden, verwerken wij persoonsgegevens van onze website- en platformbezoekers. Door het analyseren van interacties kunnen wij onze website en platform aanpassen en optimaliseren, waardoor we een betere gebruikerservaring kunnen bieden.
+
+4. Matomo
+
+Wij maken gebruik van Matomo op onze website om inzicht te krijgen in het gedrag van onze bezoekers en om de prestaties van onze website en platform te verbeteren. Matomo Analytics verzamelt anonieme informatie over jouw interactie met onze website en platform, zoals jouw locatie, browsertype en de bezochte pagina's. Jouw IP-adres wordt geanonimiseerd om jouw privacy te beschermen. Je kunt het verzamelen van deze gegevens beheren via onze consent balk. Voor meer informatie over het privacybeleid van Matoma, verwijzen we je naar de website van Matom0 (https://matomo.org/).
+
+
+
+5. Welke persoonsgegevens verwerken wij
+
+Wij verzamelen persoonsgegevens wanneer u contact met ons opneemt, onze dienstverlenging gebruikt en wanneer u zelf informatie aan ons verstrekt. 
+
+Tevens krijgen wij, als onderdeel van onze dienstverlening, persoonsgegevens van onze klant die wij als verwerker mogen verwerken. 
+
+6. Rechtsgrondslagen voor gegevensverwerking
+
+In overeenstemming met de geldende privacywetgeving verwerkt Thrive People B.V. gegevens van haar website en platformbezoekers. 
+
+•	Gerechtvaardigd belang: Thrive People heeft een gerechtvaardigd belang om de gegevens te verwerken voor het verbeteren van de dienstverlening en het aanbieden van het Thrive Platform aan werknemers.
+
+De volgende rechtsgrondslagen stellen Thrive People in staat om werknemers toegang te verschaffen tot het Thrive Platform op verzoek van hun werkgever, waardoor werknemers afspraken kunnen maken met serviceproviders en relevante diensten kunnen ontvangen. Bij elke gegevensverwerking worden de toepasselijke voorwaarden aan werknemers voorgelegd ter bescherming van hun rechten en privacy.
+
+Daarnaast verwerkt Thrive People B.V. zakelijke e-mailadressen en privé mobiele telefoonnummers van medewerkers van haar klanten op basis van de volgende wettelijke grondslagen:
+
+•	Uitvoering van een contract: De verwerking is noodzakelijk voor de uitvoering van de overeenkomst tussen Thrive People en de werkgever, waarbij Thrive People toegang tot het Thrive Platform aanbiedt.
+
+Tevens wordt gebruikers van het Thrive Platform gevraagd om informatie te delen over hun vitaliteit zodat het aanbod van prividers en producten past bij de behoefte van de gebruiker. Daarvoor geldt de volgende grondslag:
+
+•	Toestemming (indien van toepassing): In sommige gevallen kan verwerking plaatsvinden op basis van de toestemming die is verleend door de betrokkenen, zoals de werknemers.
+
+7. Beveiliging van persoonsgegevens
+
+Wij nemen passende technische en organisatorische maatregelen om persoonsgegevens te beschermen tegen onbevoegde toegang, verlies of misbruik. We doen dit volgens de daarvoor geldende wettelijke eisen en richtlijnen.
+
+
+
+8. Bewaartermijn van persoonsgegevens
+
+Persoonsgegevens worden bewaard zolang dat noodzakelijk is voor het doel waarvoor ze zijn verzameld, tenzij wettelijke voorschriften anders vereisen.
+
+9. Delen van persoonsgegevens met derden
+
+Wij delen uw persoonlijke gegevens alleen met derden in de volgende situaties:
+
+•	Met uw toestemming.
+•	Met onze vertrouwde partners en serviceproviders om onze diensten te leveren.
+•	Om te voldoen aan wettelijke verplichtingen.
+•	In verband met zakelijke transacties, zoals fusies, overnames of verkoop van activa.
+
+10. Uw rechten
+
+U heeft bepaalde privacyrechten, waaronder het recht om uw persoonsgegevens in te zien, te corrigeren, te wissen, over te dragen of de verwerking te beperken. U kunt te allen tijde bezwaar maken tegen de verwerking van uw gegevens. Als u vragen heeft over uw privacyrechten of onze gegevensverwerking, neem dan contact met ons op.
+
+11. Meer informatie
+
+Voor meer informatie over onze gegevensverwerking en de situaties waarin persoonsgegevens worden verwerkt, kunt u contact met ons opnemen.9:["$","html",null,{"lang":"nl","children":["$","body",null,{"className":"__variable_e3a538 __variable_1fc36d relative","children":[["$","$La",null,{"dict":{"our_approach":"Onze aanpak","inspiration_insight":"Inspiratie & inzicht","providers":"Voor aanbieders","about":"Over ons","terms":"Algemene Voorwaarden","privacy":"Privacy Policy","confidential":"Vertrouwenspersoon"}}],["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default)","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(default)","children","book-demo","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$Lb","$Lc",null],"segment":"__PAGE__"},"styles":[]}],"segment":"book-demo"},"styles":[]}],["$","$Ld",null,{"dict":{"our_approach":"Onze aanpak","inspiration_insight":"Inspiratie & inzicht","providers":"Voor aanbieders","about":"Over ons","terms":"Algemene Voorwaarden","privacy":"Privacy Policy","confidential":"Vertrouwenspersoon"},"terms":"$e","privacy":"$f"}],["$","$L10",null,{"async":true,"type":"text/javascript","src":"https://thrivepeople.artikor.nl/"}],["$","$L11",null,{}],["$","$L10",null,{"defer":true,"type":"application/javascript","src":"https://cdn.kiprotect.com/klaro/latest/klaro.js"}]]}]}]
+12:I[8215,["173","static/chunks/173-27547d7a2f741136.js","223","static/chunks/app/(default)/book-demo/page-c4bb2d33b7f9ceb5.js"],""]
+c:["$","$L12",null,{"dict":{"title":"De oplossing voor een vitale organisatie","subtitles":["Samen werken aan vitaliteit/welzijn","Vertrouwde partners in vitaliteit","Vertrouwd door toporganisaties"],"form":{"header":"Boek een demo","description":"Benieuwd wat Thrive voor jou kan betekenen? Geïnteresseerd in een demo? Laat hier je gegevens achter. Wij laten graag zien wat we kunnen.","fullname":"Voor- en achternaam","organization":"Organisatienaam","phonenumber":"Telefoonnummer","email":"E-mailadres","button":"Let's Thrive!","invalid_email":"Ongeldig e-mailadres!","success_header":"Je bericht is verzonden!","success_description":"Bedankt voor je interesse, we nemen snel contact met je op.","required":"Vereist","invalid_phone":"Ongeldig telefoonnummer!"}}}]
+b:null
